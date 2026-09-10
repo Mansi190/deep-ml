@@ -2,18 +2,29 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**2** solved · 0 problems · 0 labs · 2 math
+**8** solved · 2 problems · 0 labs · 6 math
 
 ![Coverage](./coverage.svg)
 
 [**Browse the interactive portfolio**](https://Mansi190.github.io/deep-ml/) to replay this filling in over time.
 
+## Problems
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-09-10 | [solution](problems/0083-dot-product-calculator) |
+| [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-09-10 | [solution](problems/0121-vector-element-wise-sum) |
+
 ## Math
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Derivatives and Gradients](https://www.deep-ml.com/math-problems/1) | easy | 2026-09-10 | [solution](math/0001-derivatives-and-gradients) |
 | [Matrix Basics](https://www.deep-ml.com/math-problems/9) | easy | 2026-09-08 | [solution](math/0009-matrix-basics) |
+| [ML Workflow Basics](https://www.deep-ml.com/math-problems/30) | easy | 2026-09-10 | [solution](math/0030-ml-workflow-basics) |
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-09-08 | [solution](math/0007-vector-operations) |
+| [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-09-10 | [solution](math/0010-matrix-multiplication) |
+| [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-09-10 | [solution](math/0008-vector-norms-and-linear-independence) |
 
 ---
 

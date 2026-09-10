@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T05:31:14.992Z",
+  "generated_at": "2026-10-01T05:31:17.166Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -22,6 +22,76 @@
       "path": "math/0009-matrix-basics",
       "first_solved_at": "2026-09-08T18:57:04.403Z",
       "last_pushed_at": "2026-09-08T18:57:04.403Z"
+    },
+    "math:30": {
+      "kind": "math",
+      "id": "30",
+      "title": "ML Workflow Basics",
+      "difficulty": "easy",
+      "category": "Supervised learning setup",
+      "url": "https://www.deep-ml.com/math-problems/30",
+      "path": "math/0030-ml-workflow-basics",
+      "first_solved_at": "2026-09-10T03:14:57.725Z",
+      "last_pushed_at": "2026-09-10T03:14:57.725Z"
+    },
+    "math:10": {
+      "kind": "math",
+      "id": "10",
+      "title": "Matrix Multiplication",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/10",
+      "path": "math/0010-matrix-multiplication",
+      "first_solved_at": "2026-09-10T05:08:09.643Z",
+      "last_pushed_at": "2026-09-10T05:08:09.643Z"
+    },
+    "math:8": {
+      "kind": "math",
+      "id": "8",
+      "title": "Vector Norms and Linear Independence",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/8",
+      "path": "math/0008-vector-norms-and-linear-independence",
+      "first_solved_at": "2026-09-10T05:13:12.029Z",
+      "last_pushed_at": "2026-09-10T05:13:12.029Z"
+    },
+    "problem:121": {
+      "kind": "problem",
+      "id": "121",
+      "title": "Vector Element-wise Sum",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/121",
+      "path": "problems/0121-vector-element-wise-sum",
+      "first_solved_at": "2026-09-10T05:18:03.398Z",
+      "last_pushed_at": "2026-09-10T05:18:03.398Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:83": {
+      "kind": "problem",
+      "id": "83",
+      "title": "Dot Product Calculator",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/83",
+      "path": "problems/0083-dot-product-calculator",
+      "first_solved_at": "2026-09-10T05:21:46.680Z",
+      "last_pushed_at": "2026-09-10T05:21:46.680Z",
+      "language": "python",
+      "lines": 18
+    },
+    "math:1": {
+      "kind": "math",
+      "id": "1",
+      "title": "Derivatives and Gradients",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/1",
+      "path": "math/0001-derivatives-and-gradients",
+      "first_solved_at": "2026-09-10T06:21:12.981Z",
+      "last_pushed_at": "2026-09-10T06:21:12.981Z"
     }
   }
 }
