@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T05:31:17.166Z",
+  "generated_at": "2026-10-01T05:31:19.246Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -92,6 +92,43 @@
       "path": "math/0001-derivatives-and-gradients",
       "first_solved_at": "2026-09-10T06:21:12.981Z",
       "last_pushed_at": "2026-09-10T06:21:12.981Z"
+    },
+    "problem:76": {
+      "kind": "problem",
+      "id": "76",
+      "title": "Calculate Cosine Similarity Between Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/76",
+      "path": "problems/0076-calculate-cosine-similarity-between-vectors",
+      "first_solved_at": "2026-09-12T04:33:49.536Z",
+      "last_pushed_at": "2026-09-12T04:33:49.536Z",
+      "language": "python",
+      "lines": 32
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2026-09-12T04:42:05.906Z",
+      "last_pushed_at": "2026-09-12T04:42:05.906Z",
+      "language": "python",
+      "lines": 6
+    },
+    "math:5": {
+      "kind": "math",
+      "id": "5",
+      "title": "Gradient Descent Updates",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/5",
+      "path": "math/0005-gradient-descent-updates",
+      "first_solved_at": "2026-09-12T04:57:44.868Z",
+      "last_pushed_at": "2026-09-12T04:57:44.868Z"
     }
   }
 }
